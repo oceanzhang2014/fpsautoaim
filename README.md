@@ -12,7 +12,7 @@ Auto-targeting Python program made using the Google Movenet model that can maint
 
 ## 利用google的Movenet model 进行pose识别的python代码
 
-## 如果需要在GPU运行，删除代码里面注明的两行即可
+## 如果需要在GPU运行，帧数会有提升，删除代码里面注明的两行即可
 
 ## 前提是正确安装cuda和cudnn
 
