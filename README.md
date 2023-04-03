@@ -1,5 +1,5 @@
 # fpsautoaim
-机器视觉课程代码
+#机器视觉检测技术课程练习代码
 
 ![image](https://github.com/oceanzhang2014/fpsautoaim/blob/master/fig/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-04-03%20183320.png)
 
